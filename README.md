@@ -23,8 +23,8 @@ $ mix archive.install https://github.com/phoenixframework/archives/raw/master/ph
 
 If the install fails, troubleshoot here https://hexdocs.pm/phoenix/installation.html
 
-For PostgreSQL, install using your prefered way here https://www.postgresql.org/download/
-Ensure that you setup the DB to match the config in config/dev.exs.
+For PostgreSQL, install for your OS here https://www.postgresql.org/download/
+Ensure that you setup your DB to match the config in config/dev.exs.
 
 ## Getting It Running
 
