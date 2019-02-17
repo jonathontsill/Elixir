@@ -1,6 +1,6 @@
 # Jon's Elixir Bar
 
-I've recently taken on the task of learning the Elixir functional programming language and I'm using this GitHub repository as a platform for uploading my work to as I delve into unravelling it's secrets. I've started off with a few tutorials on Elixir syntax to provide a base to build upon and uploaded my code to the ElixirTutorial folder. I'm now on to jumping into creating a chat message room using Elixir and Phoenix and will be updating it as I go in the Projects folder above. Any questions or comments are always welcome!
+I've recently taken on the task of learning the Elixir functional programming language and I'm using this GitHub repository as a platform for uploading my work to as I explore the possibilities Elixir has to offer. I've started off with a few tutorials on Elixir syntax to provide a base to build upon and uploaded my code to the ```ElixirTutorial``` folder. I'm now on to jumping into creating a chat message room using Elixir & Phoenix and will be updating it as I go in the ```Projects``` folder above. Any questions or comments are always welcome!
 
 ## Prerequisites 
 
